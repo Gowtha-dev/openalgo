@@ -148,7 +148,7 @@ function FlowEditorContent() {
   const [executionStatus, setExecutionStatus] = useState<ExecutionStatus>('idle')
 
   // Theme and auth stores
-  const { mode, appMode, toggleMode, toggleAppMode, isTogglingMode } = useThemeStore()
+  const { mode, appMode, toggleMode, toggleAppMode, openSwitchToLive, isTogglingMode } = useThemeStore()
   const { user, logout } = useAuthStore()
   // Filtered by broker capabilities (hides crypto-only Leverage on Indian brokers, issue #1480)
   const profileMenuItems = useProfileMenuItems()
@@ -164,6 +164,10 @@ function FlowEditorContent() {
   }
 
   const handleModeToggle = async () => {
+    if (appMode === 'analyzer') {
+      openSwitchToLive()
+      return
+    }
     await toggleAppMode()
   }
 

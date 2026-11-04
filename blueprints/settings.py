@@ -29,6 +29,18 @@ def get_mode():
 def set_mode(mode):
     """Set analyze mode setting and manage execution engine thread"""
     try:
+        # If switching from Analyze mode to Live mode (mode=0), require password verification
+        from database.settings_db import get_analyze_mode
+
+        current_mode = get_analyze_mode()
+        if current_mode and mode == 0:
+            data = request.get_json(silent=True) or {}
+            password = data.get("password")
+            from database.user_db import authenticate_user
+
+            if not password or not authenticate_user(session.get("user"), password):
+                return jsonify({"error": "Valid password required to switch to Live mode"}), 403
+
         # Set the mode and start or stop the execution engine to match, as
         # one step. This route has only ever managed the engine, not the
         # square-off scheduler or the settlement catch-up, and still does not.

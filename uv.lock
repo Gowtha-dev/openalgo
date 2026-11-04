@@ -1,5 +1,5 @@
 version = 1
-revision = 3
+revision = 5
 requires-python = ">=3.12"
 resolution-markers = [
     "python_full_version >= '3.14' and sys_platform == 'win32'",
@@ -3059,6 +3059,7 @@ dependencies = [
     { name = "pydantic-settings" },
     { name = "pygments" },
     { name = "pyjwt" },
+    { name = "pymysql" },
     { name = "pyngrok" },
     { name = "pyotp" },
     { name = "pytest" },
@@ -3235,6 +3236,7 @@ requires-dist = [
     { name = "pydantic-settings", specifier = "==2.15.0" },
     { name = "pygments", specifier = "==2.21.0" },
     { name = "pyjwt", specifier = "==2.15.1" },
+    { name = "pymysql", specifier = ">=1.2.3" },
     { name = "pyngrok", specifier = "==7.5.1" },
     { name = "pyotp", specifier = "==2.10.0" },
     { name = "pytest", specifier = "==9.1.1" },
@@ -4084,6 +4086,15 @@ wheels = [
 [package.optional-dependencies]
 crypto = [
     { name = "cryptography" },
+]
+
+[[package]]
+name = "pymysql"
+version = "1.2.3"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/b1/d4/c15b459e25a23767d2f4065ef40968920320f04e302889574310c21c96a3/pymysql-1.2.3.tar.gz", hash = "sha256:d5b288529782e536ae171866df3ca9dc4f6cbfb3cc2f18e6f837fbb90dbc262b", size = 50629, upload-time = "2026-09-17T12:22:49.146Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/a9/4b/0a906d8184f011ff8dbd4722743783867589b33269d2c5fff238d636fdcb/pymysql-1.2.3-py3-none-any.whl", hash = "sha256:14f1c68e2ed859243ae5ca41ffbe677027fc46bc136a9f0be8a4e928e5e7415a", size = 46740, upload-time = "2026-09-17T12:22:47.826Z" },
 ]
 
 [[package]]

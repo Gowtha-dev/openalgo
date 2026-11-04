@@ -1276,8 +1276,44 @@ def toggle_analyzer_mode_session():
         return jsonify({"status": "error", "message": "Broker not connected"}), 401
 
     try:
+        from database.settings_db import get_analyze_mode
         from services.analyzer_service import MODE_BUSY_MESSAGE, apply_analyze_mode
         from utils.keyed_locks import LockBusy
+
+        current_mode = get_analyze_mode()
+        data = request.get_json(silent=True) or {}
+
+        # If currently in Analyze mode, toggling switches to Live mode.
+        # Enforce entering login password before allowing the switch to Live mode.
+        if current_mode:
+            password = data.get("password")
+            if not password:
+                return (
+                    jsonify(
+                        {
+                            "status": "error",
+                            "code": "PASSWORD_REQUIRED",
+                            "message": "Password is required to switch to Live mode.",
+                        }
+                    ),
+                    400,
+                )
+
+            username = session.get("user")
+            if not authenticate_user(username, password):
+                logger.warning(
+                    f"Failed password verification for user '{username}' switching to Live mode"
+                )
+                return (
+                    jsonify(
+                        {
+                            "status": "error",
+                            "code": "INVALID_PASSWORD",
+                            "message": "Incorrect password. Failed to switch to Live mode.",
+                        }
+                    ),
+                    403,
+                )
 
         # Toggle the current mode and start or stop the execution engine and
         # square-off scheduler to match, as one step: the current mode is read

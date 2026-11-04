@@ -4,6 +4,7 @@ import { Providers } from '@/app/providers'
 import { AuthSync } from '@/components/auth/AuthSync'
 import { FullWidthLayout } from '@/components/layout/FullWidthLayout'
 import { Layout } from '@/components/layout/Layout'
+import { SwitchToLiveDialog } from '@/components/layout/SwitchToLiveDialog'
 import { PageLoader } from '@/components/ui/page-loader'
 import { usePageTitle } from '@/hooks/usePageTitle'
 import { useBrokerStore } from '@/stores/brokerStore'
@@ -167,6 +168,7 @@ function App() {
       <BrowserRouter>
         <PageTitleUpdater />
         <AuthSync>
+          <SwitchToLiveDialog />
           <Suspense fallback={<PageLoader />}>
             <Routes>
               {/* Public routes */}

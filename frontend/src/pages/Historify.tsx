@@ -254,7 +254,7 @@ function getDateFromPreset(months: number): string {
 }
 
 export default function Historify() {
-  const { appMode, toggleAppMode, mode, toggleMode, isTogglingMode } = useThemeStore()
+  const { appMode, toggleAppMode, openSwitchToLive, mode, toggleMode, isTogglingMode } = useThemeStore()
   const { user, logout } = useAuthStore()
   // Filtered by broker capabilities (hides crypto-only Leverage on Indian brokers, issue #1480)
   const profileMenuItems = useProfileMenuItems()
@@ -1472,6 +1472,11 @@ export default function Historify() {
   }
 
   const handleModeToggle = async () => {
+    if (appMode === 'analyzer') {
+      openSwitchToLive()
+      return
+    }
+
     const result = await toggleAppMode()
     if (result.success) {
       const newMode = useThemeStore.getState().appMode

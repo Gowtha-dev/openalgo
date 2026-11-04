@@ -35,7 +35,7 @@ import { showToast } from '@/utils/toast'
 export function AccountControls({ variant = 'navbar' }: { variant?: 'navbar' | 'toolbar' }) {
   const navigate = useNavigate()
   const [showLogoutDialog, setShowLogoutDialog] = useState(false)
-  const { mode, appMode, toggleMode, toggleAppMode, isTogglingMode } = useThemeStore()
+  const { mode, appMode, toggleMode, toggleAppMode, openSwitchToLive, isTogglingMode } = useThemeStore()
   const { user, logout } = useAuthStore()
   const toolbar = variant === 'toolbar'
 
@@ -55,6 +55,11 @@ export function AccountControls({ variant = 'navbar' }: { variant?: 'navbar' | '
   }
 
   const handleModeToggle = async () => {
+    if (appMode === 'analyzer') {
+      openSwitchToLive()
+      return
+    }
+
     const result = await toggleAppMode()
     if (result.success) {
       const newMode = useThemeStore.getState().appMode

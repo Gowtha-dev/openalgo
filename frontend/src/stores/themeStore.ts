@@ -37,12 +37,15 @@ interface ThemeStore {
   color: ThemeColor
   appMode: AppMode
   isTogglingMode: boolean
+  isSwitchToLiveOpen: boolean
 
   setMode: (mode: ThemeMode) => void
   setColor: (color: ThemeColor) => void
   setAppMode: (appMode: AppMode) => void
   toggleMode: () => void
-  toggleAppMode: () => Promise<{ success: boolean; message?: string }>
+  openSwitchToLive: () => void
+  closeSwitchToLive: () => void
+  toggleAppMode: (password?: string) => Promise<{ success: boolean; message?: string }>
   syncAppMode: () => Promise<void>
 }
 
@@ -51,8 +54,12 @@ export const useThemeStore = create<ThemeStore>()(
     (set, get) => ({
       mode: 'light',
       color: 'zinc',
-      appMode: 'live',
+      appMode: 'analyzer',
       isTogglingMode: false,
+      isSwitchToLiveOpen: false,
+
+      openSwitchToLive: () => set({ isSwitchToLiveOpen: true }),
+      closeSwitchToLive: () => set({ isSwitchToLiveOpen: false }),
 
       setMode: (mode) => {
         // Only allow theme change in live mode
@@ -108,7 +115,7 @@ export const useThemeStore = create<ThemeStore>()(
       },
 
       // Toggle app mode via backend API
-      toggleAppMode: async (): Promise<{ success: boolean; message?: string }> => {
+      toggleAppMode: async (password?: string): Promise<{ success: boolean; message?: string }> => {
         if (get().isTogglingMode) return { success: false, message: 'Already toggling' }
 
         set({ isTogglingMode: true })
@@ -126,6 +133,7 @@ export const useThemeStore = create<ThemeStore>()(
               'Content-Type': 'application/json',
               'X-CSRFToken': csrfData.csrf_token,
             },
+            body: JSON.stringify(password ? { password } : {}),
           })
 
           const data = await response.json()

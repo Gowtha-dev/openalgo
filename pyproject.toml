@@ -173,6 +173,7 @@ dependencies = [
   "litellm==1.106.6",
   "agno==3.0.5",
   "ddgs>=9.16.0",
+  "pymysql>=1.2.3",
 ]
 
 [tool.uv]
