@@ -1,0 +1,2562 @@
+{
+  "20251124": {
+    "date": "20251124",
+    "url": "https://mtf.trading/mcx/20251124.csv.gz",
+    "status": 200,
+    "bytes": 229964,
+    "sha256": "da5f975d872a13fd2b4e2738388097d47c48d308d2e475631fd10ece8cabfd7e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251124.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:13.416319Z"
+  },
+  "20251121": {
+    "date": "20251121",
+    "url": "https://mtf.trading/mcx/20251121.csv.gz",
+    "status": 200,
+    "bytes": 233463,
+    "sha256": "b6d39f8fbb08f85b2b208256940c4706facfd72323af43f113a61755d395c335",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251121.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:13.619252Z"
+  },
+  "20251118": {
+    "date": "20251118",
+    "url": "https://mtf.trading/mcx/20251118.csv.gz",
+    "status": 200,
+    "bytes": 240157,
+    "sha256": "8a0c5ecd2c5bcbfbeca87220becdeb4afa9e4540f48fc87f5de1681477eca47c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251118.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:13.626968Z"
+  },
+  "20251117": {
+    "date": "20251117",
+    "url": "https://mtf.trading/mcx/20251117.csv.gz",
+    "status": 200,
+    "bytes": 243869,
+    "sha256": "5dd57500586bf6b6817c2fe6191792d18de8d9152a639770f62afdd30cadd6d2",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251117.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:13.643538Z"
+  },
+  "20251120": {
+    "date": "20251120",
+    "url": "https://mtf.trading/mcx/20251120.csv.gz",
+    "status": 200,
+    "bytes": 233634,
+    "sha256": "ef8e3dfd06c1ee4cefe482f15f7b8f6b312b0a20cde4107a8fba0294c095b620",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251120.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:13.912743Z"
+  },
+  "20251119": {
+    "date": "20251119",
+    "url": "https://mtf.trading/mcx/20251119.csv.gz",
+    "status": 200,
+    "bytes": 241010,
+    "sha256": "4bac866a2a93536a5c31cd41dca80fadf1946f17e3579bdf35e02cd56fc5ef17",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251119.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:14.220812Z"
+  },
+  "20251125": {
+    "date": "20251125",
+    "url": "https://mtf.trading/mcx/20251125.csv.gz",
+    "status": 200,
+    "bytes": 232077,
+    "sha256": "5ef16cdd1b038b899ddaa0fb4c21816f923dbc99e6b138f4428f6649d01f0408",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251125.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:14.227620Z"
+  },
+  "20251128": {
+    "date": "20251128",
+    "url": "https://mtf.trading/mcx/20251128.csv.gz",
+    "status": 200,
+    "bytes": 215071,
+    "sha256": "f94a355ff83c9b85853185cf0852d98794f358140e6ea6bfd0717de2e263f8db",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251128.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:14.414651Z"
+  },
+  "20251127": {
+    "date": "20251127",
+    "url": "https://mtf.trading/mcx/20251127.csv.gz",
+    "status": 200,
+    "bytes": 213232,
+    "sha256": "154b310c468014c6c316b8eaeb929bec7a9c5fdf598e8b38ed8e0ac4e413ddf8",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251127.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:14.434071Z"
+  },
+  "20251126": {
+    "date": "20251126",
+    "url": "https://mtf.trading/mcx/20251126.csv.gz",
+    "status": 200,
+    "bytes": 231004,
+    "sha256": "ce7ab60b48e7e2bc527e9ee0fab8fd68ada31516cdc8395c14069756a6abe252",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251126.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:14.439639Z"
+  },
+  "20251201": {
+    "date": "20251201",
+    "url": "https://mtf.trading/mcx/20251201.csv.gz",
+    "status": 200,
+    "bytes": 218989,
+    "sha256": "6b6d296a197629a0f05166db62d2beef22eec2a777f3d9e51bc488702b375e9e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251201.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:14.812717Z"
+  },
+  "20251203": {
+    "date": "20251203",
+    "url": "https://mtf.trading/mcx/20251203.csv.gz",
+    "status": 200,
+    "bytes": 231722,
+    "sha256": "243b961e6feac76a65ecf6c0d32cd441daff996a13f32e0b47e5d036dd3f5d76",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251203.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:15.010991Z"
+  },
+  "20251202": {
+    "date": "20251202",
+    "url": "https://mtf.trading/mcx/20251202.csv.gz",
+    "status": 200,
+    "bytes": 230308,
+    "sha256": "54f721aa52d585109a65eb517c97a8d2f651fbf3b89ddc372a0e939d400de0f1",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251202.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:15.045454Z"
+  },
+  "20251204": {
+    "date": "20251204",
+    "url": "https://mtf.trading/mcx/20251204.csv.gz",
+    "status": 200,
+    "bytes": 231989,
+    "sha256": "636931c6fc34152ddcaa0d9467795f0e3c019e4dd778e985258fd5cd7d083f2f",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251204.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:15.204981Z"
+  },
+  "20251208": {
+    "date": "20251208",
+    "url": "https://mtf.trading/mcx/20251208.csv.gz",
+    "status": 200,
+    "bytes": 235436,
+    "sha256": "8cab71b8dc6d749e68d906a3c06ef51b86b0d1a0b5b7ed837baa294bdb373329",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251208.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:15.205145Z"
+  },
+  "20251205": {
+    "date": "20251205",
+    "url": "https://mtf.trading/mcx/20251205.csv.gz",
+    "status": 200,
+    "bytes": 234722,
+    "sha256": "9c227356714ac0f4078deae8561b9f6ac83a0c450a81e5d59124c7a1f9b68358",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251205.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:15.214535Z"
+  },
+  "20251209": {
+    "date": "20251209",
+    "url": "https://mtf.trading/mcx/20251209.csv.gz",
+    "status": 200,
+    "bytes": 237434,
+    "sha256": "4d0288dcc5771bb4e7d588247410ad97d479f4e35c3dcc949d249ad77ae4e016",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251209.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:15.493255Z"
+  },
+  "20251211": {
+    "date": "20251211",
+    "url": "https://mtf.trading/mcx/20251211.csv.gz",
+    "status": 200,
+    "bytes": 245140,
+    "sha256": "93f534c415af83d8e9c5b1f443d611d406ffe1f01250bbb2ef9024c0ab0ca4d0",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251211.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:16.012477Z"
+  },
+  "20251210": {
+    "date": "20251210",
+    "url": "https://mtf.trading/mcx/20251210.csv.gz",
+    "status": 200,
+    "bytes": 242256,
+    "sha256": "e0b5872e15cd27ad12cedf82ad0600828aa434a474a86ed6e9d89585944257d2",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251210.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:16.021658Z"
+  },
+  "20251215": {
+    "date": "20251215",
+    "url": "https://mtf.trading/mcx/20251215.csv.gz",
+    "status": 200,
+    "bytes": 266074,
+    "sha256": "d1c795fa2327ab6d9d6d4df6cd5c670dfcd87f868a956e7e01ce40acc5f0f229",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251215.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:16.148880Z"
+  },
+  "20251212": {
+    "date": "20251212",
+    "url": "https://mtf.trading/mcx/20251212.csv.gz",
+    "status": 200,
+    "bytes": 262277,
+    "sha256": "93419e697e066602f896842af950abc28fcf74e57e39291669bcab8c8ac5bbc7",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251212.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:16.155954Z"
+  },
+  "20251216": {
+    "date": "20251216",
+    "url": "https://mtf.trading/mcx/20251216.csv.gz",
+    "status": 200,
+    "bytes": 279010,
+    "sha256": "d7ba6e905317a3d65e4aa873880f0c73c9963f8696da411f2b86ea711f3a4a3a",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251216.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:16.163536Z"
+  },
+  "20251217": {
+    "date": "20251217",
+    "url": "https://mtf.trading/mcx/20251217.csv.gz",
+    "status": 200,
+    "bytes": 278653,
+    "sha256": "09c7edeff2709a02a56a27da3f9087a94d7d17115ff7f1d94a46f5452ce879fb",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251217.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:16.334644Z"
+  },
+  "20251218": {
+    "date": "20251218",
+    "url": "https://mtf.trading/mcx/20251218.csv.gz",
+    "status": 200,
+    "bytes": 293696,
+    "sha256": "54650a44af84802cafa91926502520289845925b932294abd3ad5f91de6b93eb",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251218.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:16.744783Z"
+  },
+  "20251224": {
+    "date": "20251224",
+    "url": "https://mtf.trading/mcx/20251224.csv.gz",
+    "status": 200,
+    "bytes": 326194,
+    "sha256": "8284803d9e8d3c3abbe82cba1a5330d65031666acb7fb7bb25a2c332d77fd75f",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251224.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:16.758382Z"
+  },
+  "20251222": {
+    "date": "20251222",
+    "url": "https://mtf.trading/mcx/20251222.csv.gz",
+    "status": 200,
+    "bytes": 300812,
+    "sha256": "77eb0e3c9512375b0f6755e1861e1aa2f2d037c3ae9e240254b3c560505a5adc",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251222.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:16.985013Z"
+  },
+  "20251223": {
+    "date": "20251223",
+    "url": "https://mtf.trading/mcx/20251223.csv.gz",
+    "status": 200,
+    "bytes": 315773,
+    "sha256": "0e629d9478481a5d95c0207234ff120043daf8a04cea2fcf1611fcf7086a5b58",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251223.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:16.989855Z"
+  },
+  "20251219": {
+    "date": "20251219",
+    "url": "https://mtf.trading/mcx/20251219.csv.gz",
+    "status": 200,
+    "bytes": 296653,
+    "sha256": "bdaea406d7371fd084bb7d7e346d43337657c3e6ec64276126aa51e32ab547b7",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251219.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:17.462725Z"
+  },
+  "20251226": {
+    "date": "20251226",
+    "url": "https://mtf.trading/mcx/20251226.csv.gz",
+    "status": 200,
+    "bytes": 314650,
+    "sha256": "9e4300151786b0c58db20b6423f5909f82588ce88997da28990861f1d570a0c2",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251226.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:17.657416Z"
+  },
+  "20251230": {
+    "date": "20251230",
+    "url": "https://mtf.trading/mcx/20251230.csv.gz",
+    "status": 200,
+    "bytes": 349187,
+    "sha256": "72a8caecb3197d720dda49d339d88062a6bd42aefd1f2f9ba00420c06a7d79db",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251230.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:17.755741Z"
+  },
+  "20251229": {
+    "date": "20251229",
+    "url": "https://mtf.trading/mcx/20251229.csv.gz",
+    "status": 200,
+    "bytes": 355731,
+    "sha256": "06381f951e0b15a5fa80734aad8d317d8e3425d4ea4c6b1e74bb657a93b80a3b",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251229.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:17.817000Z"
+  },
+  "20251231": {
+    "date": "20251231",
+    "url": "https://mtf.trading/mcx/20251231.csv.gz",
+    "status": 200,
+    "bytes": 370223,
+    "sha256": "db0e0972ae80e0bc349c5d56bd49a9948c984397b61b7a5cc7b83809909554e6",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20251231.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:18.098881Z"
+  },
+  "20260101": {
+    "date": "20260101",
+    "url": "https://mtf.trading/mcx/20260101.csv.gz",
+    "status": 200,
+    "bytes": 354036,
+    "sha256": "850b1535b5c3df9c8c4840bad497458153a257bcce235b7281cca85449df45ac",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260101.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:18.104328Z"
+  },
+  "20260102": {
+    "date": "20260102",
+    "url": "https://mtf.trading/mcx/20260102.csv.gz",
+    "status": 200,
+    "bytes": 358727,
+    "sha256": "24e1946d2303144d551b7bf5489f8a4c4ebe692d886367c4ce9b4a4498c13f8c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260102.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:18.738964Z"
+  },
+  "20260105": {
+    "date": "20260105",
+    "url": "https://mtf.trading/mcx/20260105.csv.gz",
+    "status": 200,
+    "bytes": 360611,
+    "sha256": "ba804167ae53d27fcf49f031d1b050b8642cf3b45a1f8c49d836ba615ad11e7b",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260105.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:18.869598Z"
+  },
+  "20260107": {
+    "date": "20260107",
+    "url": "https://mtf.trading/mcx/20260107.csv.gz",
+    "status": 200,
+    "bytes": 377012,
+    "sha256": "c98e51df60740b5f637d0a7fdbcf652b2cd1382c49a4a597a5ceaa18d918cf07",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260107.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:18.993402Z"
+  },
+  "20260106": {
+    "date": "20260106",
+    "url": "https://mtf.trading/mcx/20260106.csv.gz",
+    "status": 200,
+    "bytes": 363913,
+    "sha256": "79be606d196b141c6c69b5515313abaf7e0935821b2e8b7ad7dd01da741e1b06",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260106.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:19.035843Z"
+  },
+  "20260108": {
+    "date": "20260108",
+    "url": "https://mtf.trading/mcx/20260108.csv.gz",
+    "status": 200,
+    "bytes": 378716,
+    "sha256": "7dc847544c55eee939fb7f3fbe5f3a195dc3c2e17c24e5fc8a161cc673c826f8",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260108.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:19.203123Z"
+  },
+  "20260109": {
+    "date": "20260109",
+    "url": "https://mtf.trading/mcx/20260109.csv.gz",
+    "status": 200,
+    "bytes": 382336,
+    "sha256": "45b8e20e392e26ccd433fe9f266177018b273f69d8cd145e42ee0581cd271f3d",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260109.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:19.211232Z"
+  },
+  "20260112": {
+    "date": "20260112",
+    "url": "https://mtf.trading/mcx/20260112.csv.gz",
+    "status": 200,
+    "bytes": 399977,
+    "sha256": "a6dcd02b513b81f4a3bb6c90dcd27b0752ac397a9b3400c5f8da1a34fa2b5139",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260112.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:19.930117Z"
+  },
+  "20260113": {
+    "date": "20260113",
+    "url": "https://mtf.trading/mcx/20260113.csv.gz",
+    "status": 200,
+    "bytes": 425672,
+    "sha256": "cb065c19a18dc342cbedececc7bb55a32a74bc3e405ba3ac38220bb3f1636417",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260113.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:19.946690Z"
+  },
+  "20260115": {
+    "date": "20260115",
+    "url": "https://mtf.trading/mcx/20260115.csv.gz",
+    "status": 200,
+    "bytes": 455848,
+    "sha256": "712167370f1a3e5c4c6f4cd1506dce19f3553f27d670db47f3aaba4afbb49620",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260115.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:20.150155Z"
+  },
+  "20260116": {
+    "date": "20260116",
+    "url": "https://mtf.trading/mcx/20260116.csv.gz",
+    "status": 200,
+    "bytes": 466536,
+    "sha256": "5010867df2881754b0bc2bcb3b5013bda7f06ddcbcb676e0560a1769dcf884b5",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260116.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:20.150338Z"
+  },
+  "20260114": {
+    "date": "20260114",
+    "url": "https://mtf.trading/mcx/20260114.csv.gz",
+    "status": 200,
+    "bytes": 435983,
+    "sha256": "416ae4919f203828e1883673646e31c5a17ef2709568979d87608076bff7311c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260114.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:20.210594Z"
+  },
+  "20260119": {
+    "date": "20260119",
+    "url": "https://mtf.trading/mcx/20260119.csv.gz",
+    "status": 200,
+    "bytes": 469109,
+    "sha256": "951b9f721251876bdb387a1f1467b99bf321def3928212373efbd4dff289bc1b",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260119.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:20.218254Z"
+  },
+  "20260120": {
+    "date": "20260120",
+    "url": "https://mtf.trading/mcx/20260120.csv.gz",
+    "status": 200,
+    "bytes": 513378,
+    "sha256": "85be0f1773bb72793f0e70a809f4f1b4be1f0872971f0b8d8d99fa758723ca0c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260120.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:21.178332Z"
+  },
+  "20260121": {
+    "date": "20260121",
+    "url": "https://mtf.trading/mcx/20260121.csv.gz",
+    "status": 200,
+    "bytes": 567987,
+    "sha256": "9070e417a2d8e117cbe1fd2a5f89ad3a1bcde91f2e889413a6d7c83be146e49c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260121.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:21.207128Z"
+  },
+  "20260122": {
+    "date": "20260122",
+    "url": "https://mtf.trading/mcx/20260122.csv.gz",
+    "status": 200,
+    "bytes": 586666,
+    "sha256": "a5d8deefe24b9927e04ebdd5811bf299fae6882da59ce8321a126b61709e8393",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260122.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:21.287365Z"
+  },
+  "20260123": {
+    "date": "20260123",
+    "url": "https://mtf.trading/mcx/20260123.csv.gz",
+    "status": 200,
+    "bytes": 607715,
+    "sha256": "c67dc3f02d4a890a016a4a6f1d7018abe919e901ad51d26cf912a6a25c594dfc",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260123.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:21.325730Z"
+  },
+  "20260127": {
+    "date": "20260127",
+    "url": "https://mtf.trading/mcx/20260127.csv.gz",
+    "status": 200,
+    "bytes": 620463,
+    "sha256": "630a0b7553782fe510e81e99a0bd071d1dce7309e32382ff5a531df2ef7ab94c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260127.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:21.356214Z"
+  },
+  "20260128": {
+    "date": "20260128",
+    "url": "https://mtf.trading/mcx/20260128.csv.gz",
+    "status": 200,
+    "bytes": 629764,
+    "sha256": "48439287ab1638b589969a669fae38f954c5fd1cc9755c4bfaa72db34d1b2ea7",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260128.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:21.437903Z"
+  },
+  "20260202": {
+    "date": "20260202",
+    "url": "https://mtf.trading/mcx/20260202.csv.gz",
+    "status": 200,
+    "bytes": 623309,
+    "sha256": "7c01a97439a9a61497a57ec1b57831b6a92fcbbe5b7862e48a1689bcb8191a84",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260202.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:22.701136Z"
+  },
+  "20260203": {
+    "date": "20260203",
+    "url": "https://mtf.trading/mcx/20260203.csv.gz",
+    "status": 200,
+    "bytes": 638539,
+    "sha256": "013cd4eabafeb94ab43bce79faa29da77b6b60704cb43321971ceebf6f4b7331",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260203.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:22.825240Z"
+  },
+  "20260129": {
+    "date": "20260129",
+    "url": "https://mtf.trading/mcx/20260129.csv.gz",
+    "status": 200,
+    "bytes": 689729,
+    "sha256": "833cb597bb3239704b8abbf247209d0cb1443ab6be496cf6564c7cd900dc1e4d",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260129.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:23.002178Z"
+  },
+  "20260130": {
+    "date": "20260130",
+    "url": "https://mtf.trading/mcx/20260130.csv.gz",
+    "status": 200,
+    "bytes": 708755,
+    "sha256": "21ecc1a4e5e4a9488f97a7ef1b3d53916cf99e47f16a63906bdc937df7241bb4",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260130.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:23.054400Z"
+  },
+  "20260204": {
+    "date": "20260204",
+    "url": "https://mtf.trading/mcx/20260204.csv.gz",
+    "status": 200,
+    "bytes": 638608,
+    "sha256": "8c763b285c14ca1ba398d2b606c169766473f885088e6b2c6dcc49f28c123beb",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260204.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:23.091640Z"
+  },
+  "20260205": {
+    "date": "20260205",
+    "url": "https://mtf.trading/mcx/20260205.csv.gz",
+    "status": 200,
+    "bytes": 635608,
+    "sha256": "bc9294ae2f216ba2cf5a0a6b96e253bc3ac5e7aa2d73b28643d458c2b549f810",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260205.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:23.115391Z"
+  },
+  "20260206": {
+    "date": "20260206",
+    "url": "https://mtf.trading/mcx/20260206.csv.gz",
+    "status": 200,
+    "bytes": 639720,
+    "sha256": "8942cb9bfdc77000de90637bc7a1fce9b99ebdbc52715426081a6882a1063e22",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260206.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:23.883167Z"
+  },
+  "20260209": {
+    "date": "20260209",
+    "url": "https://mtf.trading/mcx/20260209.csv.gz",
+    "status": 200,
+    "bytes": 376375,
+    "sha256": "279772f6447c510cc7579e0d346882836e24aa2de2ee643c1e76d677220b166f",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260209.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:24.146812Z"
+  },
+  "20260211": {
+    "date": "20260211",
+    "url": "https://mtf.trading/mcx/20260211.csv.gz",
+    "status": 200,
+    "bytes": 378591,
+    "sha256": "f207aad0622f5b276a4a7e9278879f7482e58f55eab4d597f153b2fe38eb63b9",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260211.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:24.154688Z"
+  },
+  "20260212": {
+    "date": "20260212",
+    "url": "https://mtf.trading/mcx/20260212.csv.gz",
+    "status": 200,
+    "bytes": 380627,
+    "sha256": "bb8fd3868440dbe7b24432a9c67ac4b6828692a8ee00aa4009b51d45c4c3f601",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260212.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:24.166664Z"
+  },
+  "20260210": {
+    "date": "20260210",
+    "url": "https://mtf.trading/mcx/20260210.csv.gz",
+    "status": 200,
+    "bytes": 379603,
+    "sha256": "0fd13427a6367145a7ce94dd6c549ccbe0532b7e70f9bd47c5f9e7bfd48cff61",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260210.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:24.181308Z"
+  },
+  "20260213": {
+    "date": "20260213",
+    "url": "https://mtf.trading/mcx/20260213.csv.gz",
+    "status": 200,
+    "bytes": 380043,
+    "sha256": "fdfb7f3e7e46947c61cb83146c16cb7af40058df5b7c53bb8a125844a31e6bbe",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260213.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:24.213761Z"
+  },
+  "20260216": {
+    "date": "20260216",
+    "url": "https://mtf.trading/mcx/20260216.csv.gz",
+    "status": 200,
+    "bytes": 382630,
+    "sha256": "22196c966f7a996ef18e9285b9175b453c061b39d4ba10715300fec2ffecab71",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260216.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:24.841364Z"
+  },
+  "20260220": {
+    "date": "20260220",
+    "url": "https://mtf.trading/mcx/20260220.csv.gz",
+    "status": 200,
+    "bytes": 360586,
+    "sha256": "958f54a15affd5814ce05bce8570577883bc98321cf5ee6278f4b04e8016c85b",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260220.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:25.096605Z"
+  },
+  "20260219": {
+    "date": "20260219",
+    "url": "https://mtf.trading/mcx/20260219.csv.gz",
+    "status": 200,
+    "bytes": 358775,
+    "sha256": "063bcb45e0db8b1eaa18bd17df50d329acd26c1a69b76ddec53f7780057164d9",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260219.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:25.205822Z"
+  },
+  "20260218": {
+    "date": "20260218",
+    "url": "https://mtf.trading/mcx/20260218.csv.gz",
+    "status": 200,
+    "bytes": 383753,
+    "sha256": "4064e0dfaef070a427cd715e0f63ec8c07c76a664975a1266fc4d0f636033b4c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260218.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:25.211561Z"
+  },
+  "20260223": {
+    "date": "20260223",
+    "url": "https://mtf.trading/mcx/20260223.csv.gz",
+    "status": 200,
+    "bytes": 352895,
+    "sha256": "376b34b62de3ff2e98eed2aebf9997f5ed4050b5ce5b8f4ced39f8e30f6cd9e2",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260223.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:25.298659Z"
+  },
+  "20260217": {
+    "date": "20260217",
+    "url": "https://mtf.trading/mcx/20260217.csv.gz",
+    "status": 200,
+    "bytes": 383863,
+    "sha256": "028c16cd7397e7e8c29698ce73b67dc92568868511556d55a000865f9bb2f378",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260217.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:25.582836Z"
+  },
+  "20260224": {
+    "date": "20260224",
+    "url": "https://mtf.trading/mcx/20260224.csv.gz",
+    "status": 200,
+    "bytes": 350406,
+    "sha256": "5ba811512e7d6c0bca44854558a3b5a7ef65a9fd0a2cc1f9305804e1828e62ef",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260224.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:25.878608Z"
+  },
+  "20260225": {
+    "date": "20260225",
+    "url": "https://mtf.trading/mcx/20260225.csv.gz",
+    "status": 200,
+    "bytes": 331512,
+    "sha256": "a0c2f7cb988cc388a3fc2cae94b42ca05ab86c9df0863f2e85c37d281e0a6b98",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260225.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:26.141113Z"
+  },
+  "20260227": {
+    "date": "20260227",
+    "url": "https://mtf.trading/mcx/20260227.csv.gz",
+    "status": 200,
+    "bytes": 317911,
+    "sha256": "50ce6f8d50913e1766894496cadcd43c4120b890ec2af616e2c4a60b58d5ef03",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260227.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:26.218208Z"
+  },
+  "20260302": {
+    "date": "20260302",
+    "url": "https://mtf.trading/mcx/20260302.csv.gz",
+    "status": 200,
+    "bytes": 311774,
+    "sha256": "75d1be4f90142180e7cbef830e93dfa8c7bd7f75888d78a8ae5b770d6c31071d",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260302.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:26.226842Z"
+  },
+  "20260226": {
+    "date": "20260226",
+    "url": "https://mtf.trading/mcx/20260226.csv.gz",
+    "status": 200,
+    "bytes": 331074,
+    "sha256": "6b51e46df5ec88e91c25ecd85449bde161215af9900d2cdc932c580142a668c6",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260226.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:26.231209Z"
+  },
+  "20260303": {
+    "date": "20260303",
+    "url": "https://mtf.trading/mcx/20260303.csv.gz",
+    "status": 200,
+    "bytes": 320125,
+    "sha256": "dbc894dbdd35c4ff6cb6cb6d08c7e2991bfb92e1b84fd59ad747a38ba640f88a",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260303.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:26.332982Z"
+  },
+  "20260304": {
+    "date": "20260304",
+    "url": "https://mtf.trading/mcx/20260304.csv.gz",
+    "status": 200,
+    "bytes": 322198,
+    "sha256": "b0465d391574cc410bb99018fddd8dbedb6da6ed9d2aca54d1f91ecbd292cfe1",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260304.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:26.663469Z"
+  },
+  "20260305": {
+    "date": "20260305",
+    "url": "https://mtf.trading/mcx/20260305.csv.gz",
+    "status": 200,
+    "bytes": 320445,
+    "sha256": "346c2669f0d7d3288afe3b6b603b7ddbc481f6aecbd892e5918fa8e0187b844b",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260305.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:27.170375Z"
+  },
+  "20260310": {
+    "date": "20260310",
+    "url": "https://mtf.trading/mcx/20260310.csv.gz",
+    "status": 200,
+    "bytes": 330157,
+    "sha256": "3083971b59510821505965b4e0a243d40586e7af97d5b35dc51a80e97f3876f2",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260310.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:27.178148Z"
+  },
+  "20260306": {
+    "date": "20260306",
+    "url": "https://mtf.trading/mcx/20260306.csv.gz",
+    "status": 200,
+    "bytes": 325298,
+    "sha256": "43c18bc923c0aea61a4d24074dd1e4a4516bcf2cdbe36f7fde516bff252bf587",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260306.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:27.245004Z"
+  },
+  "20260309": {
+    "date": "20260309",
+    "url": "https://mtf.trading/mcx/20260309.csv.gz",
+    "status": 200,
+    "bytes": 329344,
+    "sha256": "9c2a01cfbcf879f3a757fbe66304c2c36d0e06bd31ee8d8e35795ac612bf5951",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260309.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:27.256342Z"
+  },
+  "20260311": {
+    "date": "20260311",
+    "url": "https://mtf.trading/mcx/20260311.csv.gz",
+    "status": 200,
+    "bytes": 328704,
+    "sha256": "d82a96a9bba21d435ff5ecee55eef3cfdcb37544fadee7cdf5b4f8ddae670126",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260311.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:27.256456Z"
+  },
+  "20260312": {
+    "date": "20260312",
+    "url": "https://mtf.trading/mcx/20260312.csv.gz",
+    "status": 200,
+    "bytes": 328861,
+    "sha256": "87a79fc524ad4607b9ee4a16bca29184eae88be5ada2941e2ec40b48e38418c1",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260312.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:27.644560Z"
+  },
+  "20260313": {
+    "date": "20260313",
+    "url": "https://mtf.trading/mcx/20260313.csv.gz",
+    "status": 200,
+    "bytes": 328330,
+    "sha256": "bddee034ac19cf79ddb0e18cba8ae129e3f0a611786eb71855ad5cae9b88ae6c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260313.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:28.774600Z"
+  },
+  "20260317": {
+    "date": "20260317",
+    "url": "https://mtf.trading/mcx/20260317.csv.gz",
+    "status": 200,
+    "bytes": 336306,
+    "sha256": "fbf89c0b23aa8638688566ae81b3250608c8311c9fb94278551df4187b0a7e68",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260317.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:28.780219Z"
+  },
+  "20260318": {
+    "date": "20260318",
+    "url": "https://mtf.trading/mcx/20260318.csv.gz",
+    "status": 200,
+    "bytes": 325033,
+    "sha256": "c794d553bace1507bef0f10f01603cdabe69ee687d391b832e1777edc8c63199",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260318.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:28.780420Z"
+  },
+  "20260316": {
+    "date": "20260316",
+    "url": "https://mtf.trading/mcx/20260316.csv.gz",
+    "status": 200,
+    "bytes": 338788,
+    "sha256": "620525fc7c55d668ace1f16b5dd3e5dc0b13529dfabfd4da729d6d86ff0b1088",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260316.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:28.868398Z"
+  },
+  "20260319": {
+    "date": "20260319",
+    "url": "https://mtf.trading/mcx/20260319.csv.gz",
+    "status": 200,
+    "bytes": 326514,
+    "sha256": "d8ba327f55dc01c87f2a468e02164626151fd8c49500807ed5841e02c0965a52",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260319.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:28.868524Z"
+  },
+  "20260320": {
+    "date": "20260320",
+    "url": "https://mtf.trading/mcx/20260320.csv.gz",
+    "status": 200,
+    "bytes": 337925,
+    "sha256": "946993e0b63726449bca0bf6ae109a6596edef527801edcd591ef41fb36b69fc",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260320.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:29.400078Z"
+  },
+  "20260327": {
+    "date": "20260327",
+    "url": "https://mtf.trading/mcx/20260327.csv.gz",
+    "status": 200,
+    "bytes": 271447,
+    "sha256": "4b86db54de5d95ae992a24ce54a0c8851a5455726312f0555d7699e4c349be35",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260327.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:29.589617Z"
+  },
+  "20260325": {
+    "date": "20260325",
+    "url": "https://mtf.trading/mcx/20260325.csv.gz",
+    "status": 200,
+    "bytes": 316918,
+    "sha256": "9d3af0246232ae615a9b30dd7e5b3abfcf0d0899ece264203d7b63b9a12f4be0",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260325.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:29.680891Z"
+  },
+  "20260326": {
+    "date": "20260326",
+    "url": "https://mtf.trading/mcx/20260326.csv.gz",
+    "status": 200,
+    "bytes": 316712,
+    "sha256": "9afbd7bbbceb982a6c2bc31e77c988b2a7d72c8507eff30803e5222d1a997ab3",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260326.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:29.694747Z"
+  },
+  "20260324": {
+    "date": "20260324",
+    "url": "https://mtf.trading/mcx/20260324.csv.gz",
+    "status": 200,
+    "bytes": 338035,
+    "sha256": "20bccefb0e688d04b603e5169ddbeb21a7cc19e5e8740651ad0364286feda43d",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260324.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:29.709775Z"
+  },
+  "20260323": {
+    "date": "20260323",
+    "url": "https://mtf.trading/mcx/20260323.csv.gz",
+    "status": 200,
+    "bytes": 342629,
+    "sha256": "3c12431db9fa78250be579906c1b2d680978d532dcb8eba92db71bbe0177cf32",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260323.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:29.709870Z"
+  },
+  "20260330": {
+    "date": "20260330",
+    "url": "https://mtf.trading/mcx/20260330.csv.gz",
+    "status": 200,
+    "bytes": 270719,
+    "sha256": "8f5f6cfde764e4dbe14a61c0757accacd289e793710676034f9b6d5dceb9b993",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260330.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:30.450484Z"
+  },
+  "20260407": {
+    "date": "20260407",
+    "url": "https://mtf.trading/mcx/20260407.csv.gz",
+    "status": 200,
+    "bytes": 272872,
+    "sha256": "b474c4589576c8b15094ef6c27dcf047e3f82af0244842e2887196047f9b22cc",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260407.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:30.606026Z"
+  },
+  "20260331": {
+    "date": "20260331",
+    "url": "https://mtf.trading/mcx/20260331.csv.gz",
+    "status": 200,
+    "bytes": 269249,
+    "sha256": "58059f83ebcd05b32ccdb74c97db68351a1a27c89cf87ee1b406a84ad3832e25",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260331.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:30.614615Z"
+  },
+  "20260402": {
+    "date": "20260402",
+    "url": "https://mtf.trading/mcx/20260402.csv.gz",
+    "status": 200,
+    "bytes": 273225,
+    "sha256": "0991ca37c8a17617410e258f7cbdabe69300ca7e260ca68afc50a383ca90a455",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260402.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:30.620252Z"
+  },
+  "20260406": {
+    "date": "20260406",
+    "url": "https://mtf.trading/mcx/20260406.csv.gz",
+    "status": 200,
+    "bytes": 274146,
+    "sha256": "cf65c0f4fdaa1159d9f0216dc5665279771f755a5bb627adfc6813455ee674f9",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260406.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:30.626236Z"
+  },
+  "20260401": {
+    "date": "20260401",
+    "url": "https://mtf.trading/mcx/20260401.csv.gz",
+    "status": 200,
+    "bytes": 271867,
+    "sha256": "6eb4d710fe18b77c8f47cb9a3e9d2804b8d87c17fdbfb5289b2093d235e7716a",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260401.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:30.626344Z"
+  },
+  "20260410": {
+    "date": "20260410",
+    "url": "https://mtf.trading/mcx/20260410.csv.gz",
+    "status": 200,
+    "bytes": 271800,
+    "sha256": "62508f115a69d6e8314769513602bd0a73400ffdc75996936d2b9696e47b0c22",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260410.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:31.362982Z"
+  },
+  "20260413": {
+    "date": "20260413",
+    "url": "https://mtf.trading/mcx/20260413.csv.gz",
+    "status": 200,
+    "bytes": 271815,
+    "sha256": "a073ee8ad5712f1d38f76cccacbc6829e376a0982e353e530853684591544417",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260413.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:31.370678Z"
+  },
+  "20260408": {
+    "date": "20260408",
+    "url": "https://mtf.trading/mcx/20260408.csv.gz",
+    "status": 200,
+    "bytes": 274035,
+    "sha256": "172e9015f1c4fa856e1859aae8fad362fc6373002b56ac707d613beec4587dd7",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260408.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:31.407614Z"
+  },
+  "20260409": {
+    "date": "20260409",
+    "url": "https://mtf.trading/mcx/20260409.csv.gz",
+    "status": 200,
+    "bytes": 273260,
+    "sha256": "dbf184cfb963832304e305db5c3d2ae01f969cdde0efde46a692fdd373b40d58",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260409.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:31.479749Z"
+  },
+  "20260414": {
+    "date": "20260414",
+    "url": "https://mtf.trading/mcx/20260414.csv.gz",
+    "status": 200,
+    "bytes": 269565,
+    "sha256": "b5a56c1d0c4c1d14836cdccc85f958ab6e01ce0db09ae52bb4794a9c25b3f94e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260414.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:31.488504Z"
+  },
+  "20260415": {
+    "date": "20260415",
+    "url": "https://mtf.trading/mcx/20260415.csv.gz",
+    "status": 200,
+    "bytes": 271440,
+    "sha256": "600952d571555d137495ffe6c6bd2da71525cd1caddc44b46caaa2d72c385c5f",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260415.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:31.494337Z"
+  },
+  "20260420": {
+    "date": "20260420",
+    "url": "https://mtf.trading/mcx/20260420.csv.gz",
+    "status": 200,
+    "bytes": 262590,
+    "sha256": "1c16fd048fef32e7bd73f753a4c756ef9717f58382bdacc3faa7e7d52c343d6a",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260420.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.101211Z"
+  },
+  "20260417": {
+    "date": "20260417",
+    "url": "https://mtf.trading/mcx/20260417.csv.gz",
+    "status": 200,
+    "bytes": 262829,
+    "sha256": "8f4e616b4605779afd709e87c61a8e64bb2557c77fce6746c1c110a703ac0be0",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260417.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.167258Z"
+  },
+  "20260416": {
+    "date": "20260416",
+    "url": "https://mtf.trading/mcx/20260416.csv.gz",
+    "status": 200,
+    "bytes": 273031,
+    "sha256": "fa9751f840f182da60844174abe642e8818c9097b46d6d9e9f112a1507e6ceb5",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260416.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.177401Z"
+  },
+  "20260422": {
+    "date": "20260422",
+    "url": "https://mtf.trading/mcx/20260422.csv.gz",
+    "status": 200,
+    "bytes": 245298,
+    "sha256": "db0a59a51f1619b768746c640a4caa5ff6911db45bdcb0e2f59baa6b572af18f",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260422.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.206415Z"
+  },
+  "20260423": {
+    "date": "20260423",
+    "url": "https://mtf.trading/mcx/20260423.csv.gz",
+    "status": 200,
+    "bytes": 246039,
+    "sha256": "4551f3ab8d752da2979d96fe8919e8319d20affd049a22ece38d581f1b7bc612",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260423.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.211269Z"
+  },
+  "20260421": {
+    "date": "20260421",
+    "url": "https://mtf.trading/mcx/20260421.csv.gz",
+    "status": 200,
+    "bytes": 267423,
+    "sha256": "f248f2827518d26f0f51f3ccea5faf355ae39634646383b05d2959163ff7c982",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260421.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.233934Z"
+  },
+  "20260428": {
+    "date": "20260428",
+    "url": "https://mtf.trading/mcx/20260428.csv.gz",
+    "status": 200,
+    "bytes": 219233,
+    "sha256": "4b03a4b9141dd83e8c82e2ee22cbb4efd8f4a4d52c94800dee6d91645bd7edf3",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260428.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.802451Z"
+  },
+  "20260424": {
+    "date": "20260424",
+    "url": "https://mtf.trading/mcx/20260424.csv.gz",
+    "status": 200,
+    "bytes": 238252,
+    "sha256": "50e1623d71fb7da90d57d39938db0afadf0bdb71f4a7c6d4cff917757c0a4645",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260424.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.818463Z"
+  },
+  "20260429": {
+    "date": "20260429",
+    "url": "https://mtf.trading/mcx/20260429.csv.gz",
+    "status": 200,
+    "bytes": 216068,
+    "sha256": "f907985d3f0f67db93d8bab807938026a10c0fa798c4487e78d95862164b23c0",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260429.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.866477Z"
+  },
+  "20260501": {
+    "date": "20260501",
+    "url": "https://mtf.trading/mcx/20260501.csv.gz",
+    "status": 200,
+    "bytes": 201390,
+    "sha256": "21a8a689a6ec4baa8d02d506a044118a1f5b89c10348b833da5ad1c2ff1ee704",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260501.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.872787Z"
+  },
+  "20260430": {
+    "date": "20260430",
+    "url": "https://mtf.trading/mcx/20260430.csv.gz",
+    "status": 200,
+    "bytes": 217752,
+    "sha256": "48f7480663f6199d0d463be0aa32eb4fba97df7c4c111f8ae9dce2803f8f3642",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260430.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.968367Z"
+  },
+  "20260427": {
+    "date": "20260427",
+    "url": "https://mtf.trading/mcx/20260427.csv.gz",
+    "status": 200,
+    "bytes": 216452,
+    "sha256": "7e671f34e01d4b4a9cb62b0be17f527b1947082d51917102cc711e888926af5b",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260427.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:32.985073Z"
+  },
+  "20260505": {
+    "date": "20260505",
+    "url": "https://mtf.trading/mcx/20260505.csv.gz",
+    "status": 200,
+    "bytes": 199943,
+    "sha256": "e0e0f33ff56a30523ea344563c0f080451d8345481198f17ee3f1dc307278f37",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260505.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:33.498908Z"
+  },
+  "20260504": {
+    "date": "20260504",
+    "url": "https://mtf.trading/mcx/20260504.csv.gz",
+    "status": 200,
+    "bytes": 202703,
+    "sha256": "ef3331f845fae810f09179a4392ef1708caca45875f127a7555bcc3a3647454e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260504.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:33.621443Z"
+  },
+  "20260506": {
+    "date": "20260506",
+    "url": "https://mtf.trading/mcx/20260506.csv.gz",
+    "status": 200,
+    "bytes": 203968,
+    "sha256": "5f410b02c104715559167e72440a814df7da1703d47c0a0e3577517f7139a37c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260506.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:33.644143Z"
+  },
+  "20260507": {
+    "date": "20260507",
+    "url": "https://mtf.trading/mcx/20260507.csv.gz",
+    "status": 200,
+    "bytes": 203817,
+    "sha256": "7127984379429b5a9ad852caab8b4b5a680d5c0e2efa7d35f5b10d6b7b2d2fca",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260507.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:33.656662Z"
+  },
+  "20260508": {
+    "date": "20260508",
+    "url": "https://mtf.trading/mcx/20260508.csv.gz",
+    "status": 200,
+    "bytes": 203040,
+    "sha256": "24328c949d0f1de43f47c06ce402074d414d464c9556210cc5b2fba4921f705c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260508.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:33.690098Z"
+  },
+  "20260511": {
+    "date": "20260511",
+    "url": "https://mtf.trading/mcx/20260511.csv.gz",
+    "status": 200,
+    "bytes": 205925,
+    "sha256": "dca2d822df7dc8b0e9eee866fba05c957e77afc882bc2d3e2d438f9503ecb642",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260511.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:33.844452Z"
+  },
+  "20260512": {
+    "date": "20260512",
+    "url": "https://mtf.trading/mcx/20260512.csv.gz",
+    "status": 200,
+    "bytes": 206909,
+    "sha256": "a8916eb4056a2517589f4c41d18b1365236d0c53522a799d76bd6ac4c6721836",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260512.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:34.248372Z"
+  },
+  "20260513": {
+    "date": "20260513",
+    "url": "https://mtf.trading/mcx/20260513.csv.gz",
+    "status": 200,
+    "bytes": 208673,
+    "sha256": "566e2cfdd7c6c894ec0c7bb5ecce97772096bbc2867ecf611d6a66542fe70a15",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260513.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:34.417542Z"
+  },
+  "20260518": {
+    "date": "20260518",
+    "url": "https://mtf.trading/mcx/20260518.csv.gz",
+    "status": 200,
+    "bytes": 213358,
+    "sha256": "1a7abdbd7740127fed463787bae16c904e43c29e1e51b837069b1ee0214040dd",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260518.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:34.427677Z"
+  },
+  "20260514": {
+    "date": "20260514",
+    "url": "https://mtf.trading/mcx/20260514.csv.gz",
+    "status": 200,
+    "bytes": 217984,
+    "sha256": "844ebba56614fcd85d04326bdab57beb228fbc65beedae8f444fdda17cbf1a5a",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260514.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:34.433743Z"
+  },
+  "20260515": {
+    "date": "20260515",
+    "url": "https://mtf.trading/mcx/20260515.csv.gz",
+    "status": 200,
+    "bytes": 207067,
+    "sha256": "896aea825da4c28ab606508a35cac3abf0e0da48497d5569fe7e2e0ebe6f022c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260515.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:34.492554Z"
+  },
+  "20260519": {
+    "date": "20260519",
+    "url": "https://mtf.trading/mcx/20260519.csv.gz",
+    "status": 200,
+    "bytes": 215926,
+    "sha256": "4ceeed26c8fb3aeafc6fc47b6a19cd50165f22e63d6399ab39527542f3e6618a",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260519.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:34.551527Z"
+  },
+  "20260526": {
+    "date": "20260526",
+    "url": "https://mtf.trading/mcx/20260526.csv.gz",
+    "status": 200,
+    "bytes": 206926,
+    "sha256": "24199714f5667769eb798f9008a50be4f36d700a7181743b66e490150c9a5a15",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260526.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.082794Z"
+  },
+  "20260520": {
+    "date": "20260520",
+    "url": "https://mtf.trading/mcx/20260520.csv.gz",
+    "status": 200,
+    "bytes": 216891,
+    "sha256": "a80fba0dc7ded4e0c2cfa2b563c15d1ab8f18db67c872b00b165776801903c49",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260520.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.090816Z"
+  },
+  "20260525": {
+    "date": "20260525",
+    "url": "https://mtf.trading/mcx/20260525.csv.gz",
+    "status": 200,
+    "bytes": 208513,
+    "sha256": "f5df8e21be930616f9fdd71fb1e45e83ff427cb172c3fc939e57f4d9e92844b1",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260525.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.098908Z"
+  },
+  "20260521": {
+    "date": "20260521",
+    "url": "https://mtf.trading/mcx/20260521.csv.gz",
+    "status": 200,
+    "bytes": 216345,
+    "sha256": "c96d029839e3a4b2a1973aeda26a1082ecd837e0d05308d22ceb54348e88136f",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260521.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.103565Z"
+  },
+  "20260522": {
+    "date": "20260522",
+    "url": "https://mtf.trading/mcx/20260522.csv.gz",
+    "status": 200,
+    "bytes": 215795,
+    "sha256": "4f27d822cc29ef9d32e1cd494c431c47bbc68d24bd2192ecaebeadefe9309899",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260522.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.109335Z"
+  },
+  "20260527": {
+    "date": "20260527",
+    "url": "https://mtf.trading/mcx/20260527.csv.gz",
+    "status": 200,
+    "bytes": 169224,
+    "sha256": "c6f2fbbaa3a4f2c5df076c6a69fe5e18e083baa76d73600cb93de20d17c459c0",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260527.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.119066Z"
+  },
+  "20260528": {
+    "date": "20260528",
+    "url": "https://mtf.trading/mcx/20260528.csv.gz",
+    "status": 200,
+    "bytes": 152823,
+    "sha256": "fe24832163faccc0abdb8c6192f636732554d71af38b9e08b3630d166a8e0cfb",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260528.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.686115Z"
+  },
+  "20260602": {
+    "date": "20260602",
+    "url": "https://mtf.trading/mcx/20260602.csv.gz",
+    "status": 200,
+    "bytes": 151473,
+    "sha256": "c0ea8c769a6ca6bf819dc24d75f8fa719bce6b5a05e6cb81a5e169d5f6abfeae",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260602.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.765698Z"
+  },
+  "20260601": {
+    "date": "20260601",
+    "url": "https://mtf.trading/mcx/20260601.csv.gz",
+    "status": 200,
+    "bytes": 152273,
+    "sha256": "6e997cd736723124ed520b76b2c2bd6e53b3dba00b15fde5ec9e6df9c38c3482",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260601.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.773945Z"
+  },
+  "20260529": {
+    "date": "20260529",
+    "url": "https://mtf.trading/mcx/20260529.csv.gz",
+    "status": 200,
+    "bytes": 154324,
+    "sha256": "aa9636322f127ce55d380ef172470eb9a3ec9b66dee895adaf6bdf988e848249",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260529.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.811504Z"
+  },
+  "20260603": {
+    "date": "20260603",
+    "url": "https://mtf.trading/mcx/20260603.csv.gz",
+    "status": 200,
+    "bytes": 151682,
+    "sha256": "677b5be472897d7ecbecd96a00754e1b18852e97ba0ba144e3e6515a484fa8fc",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260603.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.815988Z"
+  },
+  "20260604": {
+    "date": "20260604",
+    "url": "https://mtf.trading/mcx/20260604.csv.gz",
+    "status": 200,
+    "bytes": 151157,
+    "sha256": "dd32835bd9e5a79a5600bc34c107b95658b80db563c25f92dc04125e0676f067",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260604.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:35.853668Z"
+  },
+  "20260605": {
+    "date": "20260605",
+    "url": "https://mtf.trading/mcx/20260605.csv.gz",
+    "status": 200,
+    "bytes": 153700,
+    "sha256": "396a7848742b9aee7c167d777d24e456ff105abea8759ef9ce0648584662b99f",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260605.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:36.252974Z"
+  },
+  "20260610": {
+    "date": "20260610",
+    "url": "https://mtf.trading/mcx/20260610.csv.gz",
+    "status": 200,
+    "bytes": 159820,
+    "sha256": "7660a0ee91beff7dfb735218dffc19347ab1bf66013a250311b01c524a101ea7",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260610.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:36.308864Z"
+  },
+  "20260611": {
+    "date": "20260611",
+    "url": "https://mtf.trading/mcx/20260611.csv.gz",
+    "status": 200,
+    "bytes": 161253,
+    "sha256": "3672abba05a358216b4449399af86ecfd41fbf5b3a9590a072db1d1f7dc566df",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260611.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:36.316505Z"
+  },
+  "20260609": {
+    "date": "20260609",
+    "url": "https://mtf.trading/mcx/20260609.csv.gz",
+    "status": 200,
+    "bytes": 157896,
+    "sha256": "b8901b2904e348c0cb0f0f9c29329f876e80b8043a9ca6869bd41f6b1f2ae168",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260609.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:36.449299Z"
+  },
+  "20260608": {
+    "date": "20260608",
+    "url": "https://mtf.trading/mcx/20260608.csv.gz",
+    "status": 200,
+    "bytes": 157915,
+    "sha256": "492119ee0924a13eaf0c5cfe1afc5cb45e86807ea25df670e23f50d5bb58de64",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260608.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:36.454910Z"
+  },
+  "20260612": {
+    "date": "20260612",
+    "url": "https://mtf.trading/mcx/20260612.csv.gz",
+    "status": 200,
+    "bytes": 160385,
+    "sha256": "08c93da02beb1aa03557ad9ed60380cf1f8ebcd5bc16b71a45bfdb4b47cb32d5",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260612.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:36.497628Z"
+  },
+  "20260617": {
+    "date": "20260617",
+    "url": "https://mtf.trading/mcx/20260617.csv.gz",
+    "status": 200,
+    "bytes": 154551,
+    "sha256": "51c492db06973be702e1eec7ac281c293d88a5e0285c72e84766c490e4c9a78b",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260617.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:37.320443Z"
+  },
+  "20260615": {
+    "date": "20260615",
+    "url": "https://mtf.trading/mcx/20260615.csv.gz",
+    "status": 200,
+    "bytes": 161882,
+    "sha256": "cf9f62a7ce599aa1bc55d50e9529f3848adbfecf286ed50b9345f0f9775a00f4",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260615.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:37.320939Z"
+  },
+  "20260616": {
+    "date": "20260616",
+    "url": "https://mtf.trading/mcx/20260616.csv.gz",
+    "status": 200,
+    "bytes": 165472,
+    "sha256": "6af215aaecdcae496d3172a80ddb0805ea4dea8c5cec799472b51af343cd70eb",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260616.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:37.332036Z"
+  },
+  "20260618": {
+    "date": "20260618",
+    "url": "https://mtf.trading/mcx/20260618.csv.gz",
+    "status": 200,
+    "bytes": 156614,
+    "sha256": "664bb796474de0f0ca3e8bff2517d65add283d3dc06237a20a04a3d3c5c24370",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260618.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:37.387723Z"
+  },
+  "20260619": {
+    "date": "20260619",
+    "url": "https://mtf.trading/mcx/20260619.csv.gz",
+    "status": 200,
+    "bytes": 162647,
+    "sha256": "a62c776c685f2c2ce394fb5328b330cb870f89b73263f2e07d68f06b91d5322b",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260619.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:37.397560Z"
+  },
+  "20260622": {
+    "date": "20260622",
+    "url": "https://mtf.trading/mcx/20260622.csv.gz",
+    "status": 200,
+    "bytes": 159067,
+    "sha256": "e9c7945d2bc046b7f9f078af7de9adf55f39b549ba842f35d0a7965250ff38f9",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260622.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:37.397652Z"
+  },
+  "20260624": {
+    "date": "20260624",
+    "url": "https://mtf.trading/mcx/20260624.csv.gz",
+    "status": 200,
+    "bytes": 156783,
+    "sha256": "24256120ad94515b87af907bc53aaaf5521beea008064d2e650413c8ab6b5f9f",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260624.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:37.857332Z"
+  },
+  "20260623": {
+    "date": "20260623",
+    "url": "https://mtf.trading/mcx/20260623.csv.gz",
+    "status": 200,
+    "bytes": 159249,
+    "sha256": "6f4991f3ca14bc06476b6497acd88442ebec809a9bcde66e03e0a1f0129ab7e7",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260623.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:37.931619Z"
+  },
+  "20260625": {
+    "date": "20260625",
+    "url": "https://mtf.trading/mcx/20260625.csv.gz",
+    "status": 200,
+    "bytes": 162019,
+    "sha256": "1abb65e51556ae9675b91c125b8269b46c0d6bced09b08b527ed54e80a56f49c",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260625.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:37.969434Z"
+  },
+  "20260626": {
+    "date": "20260626",
+    "url": "https://mtf.trading/mcx/20260626.csv.gz",
+    "status": 200,
+    "bytes": 163069,
+    "sha256": "8235b7ecc52590871bfc092ea88836e384d52b78580842523849fe02811c9d10",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260626.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:38.095070Z"
+  },
+  "20260630": {
+    "date": "20260630",
+    "url": "https://mtf.trading/mcx/20260630.csv.gz",
+    "status": 200,
+    "bytes": 160688,
+    "sha256": "272981ccf953c24a541a4e0a30d75e1d02a2006571dbbf2b3662e44281234835",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260630.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:38.156807Z"
+  },
+  "20260629": {
+    "date": "20260629",
+    "url": "https://mtf.trading/mcx/20260629.csv.gz",
+    "status": 200,
+    "bytes": 160494,
+    "sha256": "6c050e2405abf0ae57e1b0e9c0ca4bc13e7719b615bc130f4a7da70759bf6e20",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260629.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:38.187811Z"
+  },
+  "20260701": {
+    "date": "20260701",
+    "url": "https://mtf.trading/mcx/20260701.csv.gz",
+    "status": 200,
+    "bytes": 157877,
+    "sha256": "8394fe6c457c7d82064a08c8f0c29f9a45530f9c6ed072af8bced65c214967b1",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260701.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:38.574662Z"
+  },
+  "20260703": {
+    "date": "20260703",
+    "url": "https://mtf.trading/mcx/20260703.csv.gz",
+    "status": 200,
+    "bytes": 157448,
+    "sha256": "73094cbd613eb18a8405d2db6e41e21cd868a0c5a8336e9aca761d6cbece37e3",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260703.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:38.717613Z"
+  },
+  "20260702": {
+    "date": "20260702",
+    "url": "https://mtf.trading/mcx/20260702.csv.gz",
+    "status": 200,
+    "bytes": 157402,
+    "sha256": "d6ad2a27e810cc3ce360d514c4fa0bfe682f85e7d01671bf359f167be18cf015",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260702.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:38.731614Z"
+  },
+  "20260707": {
+    "date": "20260707",
+    "url": "https://mtf.trading/mcx/20260707.csv.gz",
+    "status": 200,
+    "bytes": 158969,
+    "sha256": "0dfa38472ea78b4ae6ff345de6daaa96248a3eafb574c158af262105c002e26d",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260707.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:38.784742Z"
+  },
+  "20260706": {
+    "date": "20260706",
+    "url": "https://mtf.trading/mcx/20260706.csv.gz",
+    "status": 200,
+    "bytes": 159421,
+    "sha256": "fc68ca2c14ae7eaceb137743536493200ef4d04cde7ad877ac06722f54f66a7e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260706.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:38.805304Z"
+  },
+  "20260708": {
+    "date": "20260708",
+    "url": "https://mtf.trading/mcx/20260708.csv.gz",
+    "status": 200,
+    "bytes": 160488,
+    "sha256": "835194851c5373a6b43e855f9091e608d7052c420416367df54d2dfe0508194b",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260708.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:38.831809Z"
+  },
+  "20260709": {
+    "date": "20260709",
+    "url": "https://mtf.trading/mcx/20260709.csv.gz",
+    "status": 200,
+    "bytes": 160548,
+    "sha256": "45450bd1562ab135ea123be8528c1d1f7e5cc8db72c00613ce42faea6db9b5d5",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260709.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:39.137361Z"
+  },
+  "20260710": {
+    "date": "20260710",
+    "url": "https://mtf.trading/mcx/20260710.csv.gz",
+    "status": 200,
+    "bytes": 160258,
+    "sha256": "01a58ba4095fb7481c38085efa09c7cdf6dc756ad0703ec12d758749f61f796f",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260710.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:39.308651Z"
+  },
+  "20260715": {
+    "date": "20260715",
+    "url": "https://mtf.trading/mcx/20260715.csv.gz",
+    "status": 200,
+    "bytes": 164207,
+    "sha256": "a7e8416dd21334f0dba164fe0f876e17710ebf8b252af87e4f883189521f0783",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260715.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:39.327375Z"
+  },
+  "20260714": {
+    "date": "20260714",
+    "url": "https://mtf.trading/mcx/20260714.csv.gz",
+    "status": 200,
+    "bytes": 164944,
+    "sha256": "6c21f0773961292844b1ee2e6308fae5c96cb29141245d1d704de10a6100da61",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260714.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:39.335294Z"
+  },
+  "20260713": {
+    "date": "20260713",
+    "url": "https://mtf.trading/mcx/20260713.csv.gz",
+    "status": 200,
+    "bytes": 161617,
+    "sha256": "a23e84345feb1fef57eed3e71717f3457bc52b22c508418bfaf6a938ed221955",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260713.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:39.335370Z"
+  },
+  "20260716": {
+    "date": "20260716",
+    "url": "https://mtf.trading/mcx/20260716.csv.gz",
+    "status": 200,
+    "bytes": 170521,
+    "sha256": "fc929adf323fcccf45a60c8969713453bcdeb2e3ce06ab5a3067726cf6f2b9ec",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260716.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:39.344065Z"
+  },
+  "20260717": {
+    "date": "20260717",
+    "url": "https://mtf.trading/mcx/20260717.csv.gz",
+    "status": 200,
+    "bytes": 162636,
+    "sha256": "445ddec0ad9d9ab203d0efe43afdb239289ddb6094cf21a8a9eb4c969116ae60",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260717.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:39.737107Z"
+  },
+  "20260721": {
+    "date": "20260721",
+    "url": "https://mtf.trading/mcx/20260721.csv.gz",
+    "status": 200,
+    "bytes": 168729,
+    "sha256": "1a587c3b2e93b038a869d6033315112a923c5c564bb4e1314033d050c5afe23a",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260721.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:39.964895Z"
+  },
+  "20260724": {
+    "date": "20260724",
+    "url": "https://mtf.trading/mcx/20260724.csv.gz",
+    "status": 200,
+    "bytes": 172588,
+    "sha256": "e95854b2582f8d5e7a4e6e111ceeed3972718c1519dfa13020990e1bf07ffe1e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260724.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:39.988010Z"
+  },
+  "20260722": {
+    "date": "20260722",
+    "url": "https://mtf.trading/mcx/20260722.csv.gz",
+    "status": 200,
+    "bytes": 170625,
+    "sha256": "8ee41af016d39d6e0ec17ae200c2002c75bc56f340901ed3aec4753dc6c4047e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260722.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:39.994436Z"
+  },
+  "20260720": {
+    "date": "20260720",
+    "url": "https://mtf.trading/mcx/20260720.csv.gz",
+    "status": 200,
+    "bytes": 162966,
+    "sha256": "0fd5db6027b714f2198877b1fa78e6dd17ec2997b3fd3009f4e868a3792bf011",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260720.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:40.000321Z"
+  },
+  "20260723": {
+    "date": "20260723",
+    "url": "https://mtf.trading/mcx/20260723.csv.gz",
+    "status": 200,
+    "bytes": 171936,
+    "sha256": "be8b28c11a987005d528a046354cc994887152231caa9383ff86e93452d09bb9",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260723.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:40.091954Z"
+  },
+  "20260727": {
+    "date": "20260727",
+    "url": "https://mtf.trading/mcx/20260727.csv.gz",
+    "status": 200,
+    "bytes": 166214,
+    "sha256": "d6b37370e883ae6ecf2609d7d7026fff567292f41fabc4ad2a6e82a1142543b7",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260727.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:40.435760Z"
+  },
+  "20260730": {
+    "date": "20260730",
+    "url": "https://mtf.trading/mcx/20260730.csv.gz",
+    "status": 200,
+    "bytes": 154696,
+    "sha256": "c8cddf6bbaa42926f2ee772d1fc89c0aaeed5f390c92194e68d828438175d2d4",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260730.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:40.596289Z"
+  },
+  "20260729": {
+    "date": "20260729",
+    "url": "https://mtf.trading/mcx/20260729.csv.gz",
+    "status": 200,
+    "bytes": 161358,
+    "sha256": "8d117a55dec46836d37f271141ae38a3f1695ee97495c406659685c84c3165a3",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260729.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:40.602489Z"
+  },
+  "20260731": {
+    "date": "20260731",
+    "url": "https://mtf.trading/mcx/20260731.csv.gz",
+    "status": 200,
+    "bytes": 154752,
+    "sha256": "419a706e5327ecda5c4ebf93722847088836a344699536a73ebeca156195d437",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260731.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:40.607406Z"
+  },
+  "20260728": {
+    "date": "20260728",
+    "url": "https://mtf.trading/mcx/20260728.csv.gz",
+    "status": 200,
+    "bytes": 167023,
+    "sha256": "b0b494e94fb68660be05d126dd562acf3fae10aa1a6a4d93f262087680e10a87",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260728.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:40.625679Z"
+  },
+  "20260803": {
+    "date": "20260803",
+    "url": "https://mtf.trading/mcx/20260803.csv.gz",
+    "status": 200,
+    "bytes": 154872,
+    "sha256": "4679cfecaf5b78c1c245c91d1be66ffd6cc7fd909bc6f43ab28c738d3defc2bd",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260803.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:40.633718Z"
+  },
+  "20260804": {
+    "date": "20260804",
+    "url": "https://mtf.trading/mcx/20260804.csv.gz",
+    "status": 200,
+    "bytes": 155235,
+    "sha256": "28e171cd89ab49b758ce9c611dc2200fc02c8d068e9568f3490632c3302b10ca",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260804.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:40.979679Z"
+  },
+  "20260805": {
+    "date": "20260805",
+    "url": "https://mtf.trading/mcx/20260805.csv.gz",
+    "status": 200,
+    "bytes": 156779,
+    "sha256": "fd4660d4d4ccd48aa5dd758f9e95602c593b70d09a0e50a9add4c06c832acc80",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260805.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:41.115654Z"
+  },
+  "20260810": {
+    "date": "20260810",
+    "url": "https://mtf.trading/mcx/20260810.csv.gz",
+    "status": 200,
+    "bytes": 160925,
+    "sha256": "fc9b8dee459dca648295054cd15db4cca705d99c8129c410b18e236815533fd0",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260810.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:41.166580Z"
+  },
+  "20260806": {
+    "date": "20260806",
+    "url": "https://mtf.trading/mcx/20260806.csv.gz",
+    "status": 200,
+    "bytes": 159305,
+    "sha256": "8b0f36c7d66db9dacb26f4ebe484779c59918f02e0b86c6b1fca8db623d66d0d",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260806.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:41.175902Z"
+  },
+  "20260811": {
+    "date": "20260811",
+    "url": "https://mtf.trading/mcx/20260811.csv.gz",
+    "status": 200,
+    "bytes": 161587,
+    "sha256": "7add7f9f1250a7d9f77298b3c5a649dddf1be26939d1355bf844feb646dc226a",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260811.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:41.184841Z"
+  },
+  "20260807": {
+    "date": "20260807",
+    "url": "https://mtf.trading/mcx/20260807.csv.gz",
+    "status": 200,
+    "bytes": 159647,
+    "sha256": "b7cf5861a1ae82bd888ee63db82d53aa3a1c3c5e55b2fa6bf8d6a2783184c6c4",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260807.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:41.189804Z"
+  },
+  "20260812": {
+    "date": "20260812",
+    "url": "https://mtf.trading/mcx/20260812.csv.gz",
+    "status": 200,
+    "bytes": 162056,
+    "sha256": "ac9bf44c8ee580e027d116a3dfd0adfedca13d2d44b5e6a89fdb69dbb0be922e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260812.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:41.610208Z"
+  },
+  "20260814": {
+    "date": "20260814",
+    "url": "https://mtf.trading/mcx/20260814.csv.gz",
+    "status": 200,
+    "bytes": 161640,
+    "sha256": "512cfd812b780a2942f91766a7ad58da3b234deeda0001ebe4d1c19ff90bb599",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260814.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:41.634251Z"
+  },
+  "20260818": {
+    "date": "20260818",
+    "url": "https://mtf.trading/mcx/20260818.csv.gz",
+    "status": 200,
+    "bytes": 155174,
+    "sha256": "96ada2541946d22c9afe70e7343a82d9bf22a6862d0b90039ce8b65862350664",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260818.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:41.690782Z"
+  },
+  "20260819": {
+    "date": "20260819",
+    "url": "https://mtf.trading/mcx/20260819.csv.gz",
+    "status": 200,
+    "bytes": 156975,
+    "sha256": "a9b1701ae9be72a539586cd0d4ec20fe3f92951a9c8d922acfcf342a45c39bcf",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260819.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:41.705881Z"
+  },
+  "20260817": {
+    "date": "20260817",
+    "url": "https://mtf.trading/mcx/20260817.csv.gz",
+    "status": 200,
+    "bytes": 165658,
+    "sha256": "dfca79c66bb25be97089a8e1c2950bde9cc7e91bcb7c68d821beee320c0c5145",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260817.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:41.723158Z"
+  },
+  "20260813": {
+    "date": "20260813",
+    "url": "https://mtf.trading/mcx/20260813.csv.gz",
+    "status": 200,
+    "bytes": 162185,
+    "sha256": "a34e222d80803dc8ce646c19d9fa6b12600bd412c37a055b0d0ca02e470b598e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260813.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:41.826814Z"
+  },
+  "20260824": {
+    "date": "20260824",
+    "url": "https://mtf.trading/mcx/20260824.csv.gz",
+    "status": 200,
+    "bytes": 166696,
+    "sha256": "b12d82b673f2f5c5a0b7e42c101a3ee9851a28f434e6a7ebdf51b76d7b832f3d",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260824.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.179391Z"
+  },
+  "20260821": {
+    "date": "20260821",
+    "url": "https://mtf.trading/mcx/20260821.csv.gz",
+    "status": 200,
+    "bytes": 165258,
+    "sha256": "e2236fba1807098886f73acc25b2ec0ed995abc38ccafd588021c81259648c54",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260821.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.192289Z"
+  },
+  "20260826": {
+    "date": "20260826",
+    "url": "https://mtf.trading/mcx/20260826.csv.gz",
+    "status": 200,
+    "bytes": 157096,
+    "sha256": "d741e52696ec86b4e19251466256941db1a65a638b726a4316193936d16981c6",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260826.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.212446Z"
+  },
+  "20260825": {
+    "date": "20260825",
+    "url": "https://mtf.trading/mcx/20260825.csv.gz",
+    "status": 200,
+    "bytes": 156252,
+    "sha256": "e9834529dcabad87dcc2efae0e59800e175c391ff21f51aad3aa604a4c36588a",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260825.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.277726Z"
+  },
+  "20260827": {
+    "date": "20260827",
+    "url": "https://mtf.trading/mcx/20260827.csv.gz",
+    "status": 200,
+    "bytes": 160116,
+    "sha256": "ac4b365ff379fbdc03ff5a9ed68b6ab055acdfc793fb31a5360c624f30f01d84",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260827.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.303854Z"
+  },
+  "20260820": {
+    "date": "20260820",
+    "url": "https://mtf.trading/mcx/20260820.csv.gz",
+    "status": 200,
+    "bytes": 163561,
+    "sha256": "6afcbbae07f5f4f23635c1823c475dfc50fcee4c3a1c751b79b583d2773cb4ad",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260820.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.310089Z"
+  },
+  "20260828": {
+    "date": "20260828",
+    "url": "https://mtf.trading/mcx/20260828.csv.gz",
+    "status": 200,
+    "bytes": 160249,
+    "sha256": "489c009a677af95d66853c3d30886d2e365621c7f7e36af54255e4a7fbc028df",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260828.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.823512Z"
+  },
+  "20260901": {
+    "date": "20260901",
+    "url": "https://mtf.trading/mcx/20260901.csv.gz",
+    "status": 200,
+    "bytes": 149488,
+    "sha256": "0b05bd17e3f1911b8922c774f39cd33f059c604324a42b04eb3af308f674bb71",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260901.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.833545Z"
+  },
+  "20260831": {
+    "date": "20260831",
+    "url": "https://mtf.trading/mcx/20260831.csv.gz",
+    "status": 200,
+    "bytes": 152201,
+    "sha256": "15d707fe0613d9bc191e00e22a76184cea552042e8ce75e677f9f908957bde4e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260831.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.838266Z"
+  },
+  "20260904": {
+    "date": "20260904",
+    "url": "https://mtf.trading/mcx/20260904.csv.gz",
+    "status": 200,
+    "bytes": 146245,
+    "sha256": "160612a40e797d77733a6c03c434f047f61bcf81c7324d2d98f458d2073f8ba5",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260904.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.863634Z"
+  },
+  "20260903": {
+    "date": "20260903",
+    "url": "https://mtf.trading/mcx/20260903.csv.gz",
+    "status": 200,
+    "bytes": 145892,
+    "sha256": "199b355a0a77064a86cff04d8243cbeb384ab0c006d73373a01f54b9d5fec810",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260903.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.870059Z"
+  },
+  "20260902": {
+    "date": "20260902",
+    "url": "https://mtf.trading/mcx/20260902.csv.gz",
+    "status": 200,
+    "bytes": 144650,
+    "sha256": "d76598908f419bb10e37e2ceebb6aa90afeef85e4d15d00f66897cb7d2e75dfe",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260902.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:42.870151Z"
+  },
+  "20260907": {
+    "date": "20260907",
+    "url": "https://mtf.trading/mcx/20260907.csv.gz",
+    "status": 200,
+    "bytes": 146576,
+    "sha256": "ad9cfd9c3e6dcf2df3237c79a230f416a6ccfa9163c046044c6930520693b257",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260907.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:43.398169Z"
+  },
+  "20260909": {
+    "date": "20260909",
+    "url": "https://mtf.trading/mcx/20260909.csv.gz",
+    "status": 200,
+    "bytes": 147509,
+    "sha256": "e76136fb32263475863c25960d5e818bad1d87ee1e8086680dbf7783531cfc95",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260909.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:43.488862Z"
+  },
+  "20260914": {
+    "date": "20260914",
+    "url": "https://mtf.trading/mcx/20260914.csv.gz",
+    "status": 200,
+    "bytes": 151345,
+    "sha256": "934a49b58087c2c4b29a9469302855135017090e12e13d2103c082e0dbfc313e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260914.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:43.495745Z"
+  },
+  "20260908": {
+    "date": "20260908",
+    "url": "https://mtf.trading/mcx/20260908.csv.gz",
+    "status": 200,
+    "bytes": 147098,
+    "sha256": "4e6f24f83ce3c15b2e8fd40fc1037c1d998f83a55ba31fc7bf186bfec55817f3",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260908.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:43.496772Z"
+  },
+  "20260911": {
+    "date": "20260911",
+    "url": "https://mtf.trading/mcx/20260911.csv.gz",
+    "status": 200,
+    "bytes": 153101,
+    "sha256": "497ff5dd7f0b6243140ffd99cb1064ab9913462167bdf0566020b3e12e9d37c3",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260911.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:43.505935Z"
+  },
+  "20260910": {
+    "date": "20260910",
+    "url": "https://mtf.trading/mcx/20260910.csv.gz",
+    "status": 200,
+    "bytes": 150264,
+    "sha256": "29c00c4cd846c804cf6f7ebf8092061d191f6009c51365794659918340d59611",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260910.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:43.506010Z"
+  },
+  "20260915": {
+    "date": "20260915",
+    "url": "https://mtf.trading/mcx/20260915.csv.gz",
+    "status": 200,
+    "bytes": 152304,
+    "sha256": "57a177995c52808d7654ffb238b40d95c4fc1573cac20e2b563584c8fd90abb3",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260915.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:43.963561Z"
+  },
+  "20260916": {
+    "date": "20260916",
+    "url": "https://mtf.trading/mcx/20260916.csv.gz",
+    "status": 200,
+    "bytes": 156206,
+    "sha256": "f46f466b18a03d306167c5715a6e163e36f7d03bef8b93a1f6303f34c3d4906d",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260916.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:44.020435Z"
+  },
+  "20260921": {
+    "date": "20260921",
+    "url": "https://mtf.trading/mcx/20260921.csv.gz",
+    "status": 200,
+    "bytes": 155041,
+    "sha256": "fb52dfae5ad87a6b5493021b67b5e4417c71bb97aeeaed12d8945552216ec88a",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260921.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:44.033615Z"
+  },
+  "20260922": {
+    "date": "20260922",
+    "url": "https://mtf.trading/mcx/20260922.csv.gz",
+    "status": 200,
+    "bytes": 155244,
+    "sha256": "e254a952b85969bddfbe1a8a9cf8634a3e0442830f2cb9b1a2e3a9a826bfa1f5",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260922.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:44.049310Z"
+  },
+  "20260917": {
+    "date": "20260917",
+    "url": "https://mtf.trading/mcx/20260917.csv.gz",
+    "status": 200,
+    "bytes": 167088,
+    "sha256": "3f9b59d449a9b3418d0b682052310c298cf4350ca22b6712ea7ef89a9b38e3bc",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260917.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:44.074304Z"
+  },
+  "20260918": {
+    "date": "20260918",
+    "url": "https://mtf.trading/mcx/20260918.csv.gz",
+    "status": 200,
+    "bytes": 149659,
+    "sha256": "8554919fbc421c3b7a30da91df82a69353cfa472ad339cc0601f1d97360e8f03",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260918.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:44.095866Z"
+  },
+  "20260925": {
+    "date": "20260925",
+    "url": "https://mtf.trading/mcx/20260925.csv.gz",
+    "status": 200,
+    "bytes": 144904,
+    "sha256": "f8f9cc0a191e66b45611d011bb8f465f159c1d24f92651138c3380d31c3c2593",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260925.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:44.686477Z"
+  },
+  "20260924": {
+    "date": "20260924",
+    "url": "https://mtf.trading/mcx/20260924.csv.gz",
+    "status": 200,
+    "bytes": 151349,
+    "sha256": "49ff9af5e48705f12096708a455f654813a164aa760934f893018a08a8970078",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260924.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:44.695454Z"
+  },
+  "20260923": {
+    "date": "20260923",
+    "url": "https://mtf.trading/mcx/20260923.csv.gz",
+    "status": 200,
+    "bytes": 161784,
+    "sha256": "f020c375c15ca320ea3743c19af327bbf3b057d88b4e3ba2ac5836af82666a87",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260923.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:44.700029Z"
+  },
+  "20260930": {
+    "date": "20260930",
+    "url": "https://mtf.trading/mcx/20260930.csv.gz",
+    "status": 200,
+    "bytes": 147234,
+    "sha256": "2b8c3e2e2be19bf9608dd21f994cf12981ffdda6454b860747a1950f4164e315",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260930.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:44.708530Z"
+  },
+  "20260929": {
+    "date": "20260929",
+    "url": "https://mtf.trading/mcx/20260929.csv.gz",
+    "status": 200,
+    "bytes": 147914,
+    "sha256": "f6cf65bb5c19e32c34bc826c032bd1d2feb4ce9dbc759a5451267ae17ea93058",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260929.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:44.708858Z"
+  },
+  "20260928": {
+    "date": "20260928",
+    "url": "https://mtf.trading/mcx/20260928.csv.gz",
+    "status": 200,
+    "bytes": 141850,
+    "sha256": "eea009c9f98405459719e73dc3a4969cc63cb0536939df7c52301a7c56143ce9",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20260928.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:44.749637Z"
+  },
+  "20261007": {
+    "date": "20261007",
+    "url": "https://mtf.trading/mcx/20261007.csv.gz",
+    "status": 200,
+    "bytes": 148988,
+    "sha256": "406ffd9065b629d3a4e937c83488e03b8c4ace21dbd0ef93f9fa1fb1d1b25139",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261007.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:45.305040Z"
+  },
+  "20261008": {
+    "date": "20261008",
+    "url": "https://mtf.trading/mcx/20261008.csv.gz",
+    "status": 200,
+    "bytes": 149370,
+    "sha256": "5d031ab00f76bc4f939cd5749af66bce3ee62273200b63a9c74f7a8b49f433a6",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261008.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:45.313428Z"
+  },
+  "20261006": {
+    "date": "20261006",
+    "url": "https://mtf.trading/mcx/20261006.csv.gz",
+    "status": 200,
+    "bytes": 148899,
+    "sha256": "b00341e6ad941d9c585a673a9f6fd72e86aecbb7f75d62577e101ab2de3ba630",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261006.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:45.324660Z"
+  },
+  "20261001": {
+    "date": "20261001",
+    "url": "https://mtf.trading/mcx/20261001.csv.gz",
+    "status": 200,
+    "bytes": 148011,
+    "sha256": "6b634cc8911d24c1e8fb68ecc0c96160d5c3c646360739816f6a641003aadfef",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261001.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:45.333267Z"
+  },
+  "20261005": {
+    "date": "20261005",
+    "url": "https://mtf.trading/mcx/20261005.csv.gz",
+    "status": 200,
+    "bytes": 142676,
+    "sha256": "d6adc8d585a8503f6d0f055f13e35b272a7c17b13ea22ae914d53941f4b7068b",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261005.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:45.338356Z"
+  },
+  "20261009": {
+    "date": "20261009",
+    "url": "https://mtf.trading/mcx/20261009.csv.gz",
+    "status": 200,
+    "bytes": 149635,
+    "sha256": "0c2bdad0ebe0001df4ace2b5b353999b93cc16bd73b435d05871e414f1ebe964",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261009.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:45.416824Z"
+  },
+  "20261015": {
+    "date": "20261015",
+    "url": "https://mtf.trading/mcx/20261015.csv.gz",
+    "status": 200,
+    "bytes": 157179,
+    "sha256": "4c08d6edaedb378068702bafb7be2123f5137d6065ba92f7aebe751f33acd341",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261015.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:45.692506Z"
+  },
+  "20261014": {
+    "date": "20261014",
+    "url": "https://mtf.trading/mcx/20261014.csv.gz",
+    "status": 200,
+    "bytes": 146457,
+    "sha256": "080ead9ef6b0b656bc1fc3f0983421bd5d74d4dff6234fb0f549f97b15aa9e60",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261014.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:47.468938Z"
+  },
+  "20261012": {
+    "date": "20261012",
+    "url": "https://mtf.trading/mcx/20261012.csv.gz",
+    "status": 200,
+    "bytes": 150029,
+    "sha256": "2b84a6e7c55f766d34a3aa2d8817a79a90e5779cc66b9a98f7f5dab0c3f7ef81",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261012.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:47.479765Z"
+  },
+  "20261013": {
+    "date": "20261013",
+    "url": "https://mtf.trading/mcx/20261013.csv.gz",
+    "status": 200,
+    "bytes": 149882,
+    "sha256": "13c6005da80808269e252eff6a6cb09f7d09367ff1db0c756d78f91b3e17b719",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261013.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:47.486283Z"
+  },
+  "20261019": {
+    "date": "20261019",
+    "url": "https://mtf.trading/mcx/20261019.csv.gz",
+    "status": 200,
+    "bytes": 151679,
+    "sha256": "27e996b4c7b92fb40374cfef1a822e94a3f1dddec38095b145e9865b9943d6da",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261019.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:47.486377Z"
+  },
+  "20261016": {
+    "date": "20261016",
+    "url": "https://mtf.trading/mcx/20261016.csv.gz",
+    "status": 200,
+    "bytes": 151566,
+    "sha256": "a0cd376b5c1c17c2ab830cde7449155ab765ded4ab0be8d0ce61e5b981b42b5d",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261016.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:47.496787Z"
+  },
+  "20261027": {
+    "date": "20261027",
+    "url": "https://mtf.trading/mcx/20261027.csv.gz",
+    "status": 200,
+    "bytes": 157430,
+    "sha256": "2679458cb0902efcb6966715bb63d0e1075692b577ed1304b5df88ac1cd28a37",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261027.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.100124Z"
+  },
+  "20261020": {
+    "date": "20261020",
+    "url": "https://mtf.trading/mcx/20261020.csv.gz",
+    "status": 200,
+    "bytes": 156106,
+    "sha256": "1a4bbccbf845950fc55274b8bcf5eeb142accc0aca8aed4b04dd9c026d11d695",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261020.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.129968Z"
+  },
+  "20261021": {
+    "date": "20261021",
+    "url": "https://mtf.trading/mcx/20261021.csv.gz",
+    "status": 200,
+    "bytes": 152186,
+    "sha256": "c9ce55820a25baa47e62fd33f60efd88d7e179ee31c3515d91c6f960c4015a09",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261021.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.146114Z"
+  },
+  "20261022": {
+    "date": "20261022",
+    "url": "https://mtf.trading/mcx/20261022.csv.gz",
+    "status": 200,
+    "bytes": 160129,
+    "sha256": "1133acb4851eae4c34c4a9ee5c15e8dbd38a45e366e11dce5bc702d5d79b4874",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261022.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.197584Z"
+  },
+  "20261026": {
+    "date": "20261026",
+    "url": "https://mtf.trading/mcx/20261026.csv.gz",
+    "status": 200,
+    "bytes": 157082,
+    "sha256": "f22ddc21d7702ee67993e3e26636f89965b4ce94e4e80b64d699879a5b6264b9",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261026.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.204708Z"
+  },
+  "20261023": {
+    "date": "20261023",
+    "url": "https://mtf.trading/mcx/20261023.csv.gz",
+    "status": 200,
+    "bytes": 166004,
+    "sha256": "198dd82b25014a1516efd66c344d4d55731fd74314be7a5f2892e29899f8f56e",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261023.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.210859Z"
+  },
+  "20261030": {
+    "date": "20261030",
+    "url": "https://mtf.trading/mcx/20261030.csv.gz",
+    "status": 200,
+    "bytes": 155902,
+    "sha256": "ba173b731eaada1f28e6062cce45a363786977d25eb5ecd23425f2091a2c84d4",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261030.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.703053Z"
+  },
+  "20261028": {
+    "date": "20261028",
+    "url": "https://mtf.trading/mcx/20261028.csv.gz",
+    "status": 200,
+    "bytes": 149858,
+    "sha256": "3cb640f74e6e35e4e57047be28ec35528941c5b9a8f450a1ba31b5e2369739bf",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261028.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.729552Z"
+  },
+  "20261029": {
+    "date": "20261029",
+    "url": "https://mtf.trading/mcx/20261029.csv.gz",
+    "status": 200,
+    "bytes": 155274,
+    "sha256": "fda4674b06f25ce5fc6916693bca921baefced29da74d216659c00578e57a2dc",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261029.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.770558Z"
+  },
+  "20261102": {
+    "date": "20261102",
+    "url": "https://mtf.trading/mcx/20261102.csv.gz",
+    "status": 200,
+    "bytes": 154502,
+    "sha256": "322b9e675aa7958ff42e99631bbb1c0c2443f566b59db2034851bad226597784",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261102.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.789759Z"
+  },
+  "20261103": {
+    "date": "20261103",
+    "url": "https://mtf.trading/mcx/20261103.csv.gz",
+    "status": 200,
+    "bytes": 155540,
+    "sha256": "cf380186b00a43f4662141daa163a9aa832d38234c0916bb3aedc40de9487327",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261103.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.824434Z"
+  },
+  "20261104": {
+    "date": "20261104",
+    "url": "https://mtf.trading/mcx/20261104.csv.gz",
+    "status": 200,
+    "bytes": 162247,
+    "sha256": "703eaefc38da640f5b07b472014575f5b4c6a816787809cff74012e1eafe1cd9",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261104.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:48.829648Z"
+  },
+  "20261105": {
+    "date": "20261105",
+    "url": "https://mtf.trading/mcx/20261105.csv.gz",
+    "status": 200,
+    "bytes": 159357,
+    "sha256": "8917a514a020c053750473f007af6c9eb8fe534daafa218a3ef06cb4dc080d60",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261105.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:49.328316Z"
+  },
+  "20261106": {
+    "date": "20261106",
+    "url": "https://mtf.trading/mcx/20261106.csv.gz",
+    "status": 200,
+    "bytes": 160653,
+    "sha256": "f3c5b95d5e350c5adf4006501978fafccf675f948bb16455b9660112159961ca",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261106.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:49.336206Z"
+  },
+  "20261111": {
+    "date": "20261111",
+    "url": "https://mtf.trading/mcx/20261111.csv.gz",
+    "status": 200,
+    "bytes": 159339,
+    "sha256": "a4df39db22778a821d0ff52081488ef88627a512ad1180465709dac95a8a6cee",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261111.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:49.413815Z"
+  },
+  "20261112": {
+    "date": "20261112",
+    "url": "https://mtf.trading/mcx/20261112.csv.gz",
+    "status": 200,
+    "bytes": 166021,
+    "sha256": "89f3fa798d902d2c3b51a3032b78c68833f774a7be73c734693b555e0b7213ea",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261112.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:49.414177Z"
+  },
+  "20261109": {
+    "date": "20261109",
+    "url": "https://mtf.trading/mcx/20261109.csv.gz",
+    "status": 200,
+    "bytes": 164086,
+    "sha256": "4d088f8b2c33018accf4b42941d8380167c961b633750c13f0d02a883681a05a",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261109.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:49.417153Z"
+  },
+  "20261110": {
+    "date": "20261110",
+    "url": "https://mtf.trading/mcx/20261110.csv.gz",
+    "status": 200,
+    "bytes": 163931,
+    "sha256": "466f686e4ff3118ce40b234c92ed8d10b54ef4b7ffa7973cbb4f35b0b719be90",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261110.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:49.466507Z"
+  },
+  "20261113": {
+    "date": "20261113",
+    "url": "https://mtf.trading/mcx/20261113.csv.gz",
+    "status": 200,
+    "bytes": 166852,
+    "sha256": "cd1ac481810becd026dccac2508dd80d464b8d9bde8769e598a4455576e15bd3",
+    "file": "/Users/gowtham/Documents/work/gold-data/GOLDM_BACKTEST/raw/20261113.csv.gz",
+    "cached": false,
+    "timestamp": "2026-11-16T13:01:49.863798Z"
+  }
+}
